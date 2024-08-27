@@ -1,0 +1,343 @@
+
+button {
+    font-family: 'Cormorant Garamond', serif;
+    border: none;
+    padding: 10px 20px;
+    background-color: transparent; /* Arka plan rengi, isteğe bağlı olarak değiştirilebilir */
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: transparent; /* Butonun üzerine gelindiğinde arka plan rengi değişimi, isteğe bağlı */
+}
+/* Navbar styles */
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.navbar-text {
+    flex: 1; /* Orta alana yayılan genişlik */
+    text-align: center; /* Metni ortalar */
+    font-size: 27px; /* Font boyutu */
+    font-family: 'Cormorant Garamond', serif; /* Font ailesi */
+    letter-spacing: 5px; /* Harf aralığı */
+    color: #000000 !important; /* Metin rengi */
+}
+.navbar-nav {
+    width:100%;
+    color: #000; /* Simgelerin rengi siyah */
+    padding: 0 10px; /* Simgeler arasında boşluk ekler */
+}
+/* Navbar içindeki form ve simgeler için düzenleme */
+.navbar-nav.ml-auto {
+    display: flex;
+    align-items: center; /* Dikey hizalamayı sağlar */
+}
+
+.navbar-nav.ml-auto .nav-item {
+    margin-left: 1rem; /* Simgeler arasındaki boşluk */
+}
+
+.navbar-nav.ml-auto .form-inline {
+    margin-right: 1rem; /* Arama kısmı ile simgeler arasındaki boşluk */
+}
+
+.navbar-nav.ml-auto .nav-link {
+    font-size: 1.1rem; /* Simge boyutu */
+    color: #000000; /* Simge rengi (beyaz) */
+}
+
+.navbar-nav.ml-auto .nav-link:hover {
+    color: #000000; /* Üzerine gelindiğinde simge rengi (mavi) */
+}
+
+.form-inline .btn {
+    border: 1px solid transparent; /* Buton kenar rengini kaldırır */
+    background-color: transparent; /* Buton arka plan rengini kaldırır */
+    color: #000; /* Arama butonu yazı rengi */
+}
+
+.form-inline .btn:hover {
+    color: #000000; /* Butonun üzerine gelindiğinde yazı rengini değiştirir */
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+.navbar-nav .nav-link {
+    font-family: 'Cormorant Garamond', sans-serif; 
+    font-weight: 700; /* Font kalınlığı */
+}
+
+/* Dropdown menü başlıkları için font ayarı */
+.navbar-nav .dropdown-menu .dropdown-item {
+    font-family: 'Cormorant Garamond', sans-serif; 
+    font-weight: 700; /* Font kalınlığı */
+}
+
+/* Hero container styles */
+.hero-container {
+    position: relative;
+    width: 100%;
+    height: 110vh; /* Full screen height */
+    overflow: hidden; /* Hide overflow */
+    display: flex;
+    justify-content: flex-start;
+}
+
+.hero-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Cover the container */
+    object-position: center; /* Center the image */
+    z-index: 1; /* Behind content */
+}
+
+.hero-content {
+    position: absolute;
+    top: 50%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    color: white; /* Text color */
+    z-index: 2; /* Above image */
+    margin-left:10px;
+    font-size: 1.5rem;
+}
+
+/* Custom hero container styles */
+.custom-hero-container {
+    display: flex;
+    height: 60vh;
+    width: 100%;
+    align-items: center; /* Center content vertically */
+    background-color: #0F0D0D; /* Background color */
+    color: white; /* Text color */
+    padding: 0; /* Remove padding */
+    font-size: 22px; /* Alt başlık boyutunu ayarlamak için */
+    letter-spacing: 1px;
+    
+}
+
+.custom-hero-image-container {
+    flex: 0 0 27%; /* Image width */
+    position: relative;
+    margin-right: 0; /* Remove right margin */
+}
+.custom-btn-hero {
+    border: 2px solid white; /* Butonun kenar rengi */
+    background-color: transparent; /* Şeffaf arka plan */
+    color: white; /* Yazı rengi */
+    font-size: 1rem; /* Yazı boyutu */
+    padding: 0.5rem 1rem; /* İç boşluk */
+    margin-top: 1rem; /* Üstten boşluk */
+    position: relative; /* Konumlama */
+    transition: all 0.3s ease; /* Geçiş efekti */
+    display: inline-block; /* Butonun inline-block olmasını sağlar */
+    max-width: 200px; /* Maksimum genişlik */
+    text-align: center; /* Yazıyı ortala */
+}
+
+.custom-btn-hero:hover {
+    background-color: white; /* Üzerine gelindiğinde arka plan rengi */
+    color: black; /* Üzerine gelindiğinde yazı rengi */
+}
+
+.custom-btn-hero:focus, .custom-btn-hero:active {
+    background-color: transparent; /* Tıklanma ve focus sırasında arka plan rengi */
+    color: white; /* Tıklanma ve focus sırasında yazı rengi */
+    box-shadow: none; /* Tıklanma ve focus sırasında gölge */
+    outline: none; /* Tıklanma ve focus sırasında outline kaldırılır */
+}
+
+.custom-btn-hero:focus {
+    outline: none; /* Focus durumunda outline kaldırılır */
+}
+
+
+.custom-hero-image {
+    width: 100%;
+    height: 100%; /* Full container height */
+    object-fit: cover; /* Cover container */
+}
+
+.custom-hero-content {
+    flex: 0 0 73%; /* Text width */
+    display: flex;
+    
+    flex-direction: column;
+    justify-content: center; /* Center content vertically */
+    padding: 2rem; /* Padding around content */
+    text-align: left; /* Align text left */
+}
+
+.custom-hero-container-third {
+    display: flex;
+    height: 40vh;
+    width: 100%;
+    align-items: center; /* Center content vertically */
+    background-color: #F4F0EB; /* Background color */
+    color: black; /* Text color */
+    margin-top: 2rem; /* Margin between sections */
+}
+
+.custom-hero-container-fourth {
+    display: flex;
+    height: 60vh;
+    width: 100%;
+    align-items: center; /* Center content vertically */
+    background-color: #0F0D0D; /* Background color */
+    color: white; /* Text color */
+    margin-top: 2rem; /* Margin between sections */
+}
+
+.custom-btn-fourth {
+    border: 2px solid white; /* Butonun kenar rengi */
+    background-color: transparent; /* Şeffaf arka plan */
+    color: white; /* Yazı rengi */
+    font-size: 1rem; /* Yazı boyutu */
+    padding: 0.5rem 1rem; /* İç boşluk */
+    margin-top: 1rem; /* Üstten boşluk */
+    position: relative; /* Konumlama */
+    transition: all 0.3s ease; /* Geçiş efekti */
+    display: inline-block; /* Butonun inline-block olmasını sağlar */
+    max-width: 200px; /* Maksimum genişlik */
+    text-align: center; /* Yazıyı ortala */
+}
+
+.custom-btn-fourth:hover {
+    background-color: rgba(255, 255, 255, 0.974); /* Background color on hover */
+    color: black; /* Text color on hover */
+}
+
+.custom-btn-third {
+    border: 2px solid black; /* Button border color */
+    background-color: transparent; /* Transparent background */
+    color: black; /* Text color */
+    font-size: 1rem; /* Font size */
+    padding: 0.5rem 1rem; /* Padding */
+    margin-top: 14rem; /* Margin top */
+    transition: all 0.3s ease; /* Transition effect */
+    position: absolute;
+}
+.custom-btn-third:hover {
+    background-color: black; /* Background color on hover */
+    color: white; /* Text color on hover */
+}
+.custom-btn-second {
+    border: 2px solid gray; /* Button border color */
+    background-color: transparent; /* Transparent background */
+    color: gray; /* Text color */
+    font-size: 1rem; /* Font size */
+    padding: 0.5rem 1rem; /* Padding */
+    margin-top: 14rem; /* Margin top */
+    transition: all 0.3s ease; /* Transition effect */
+    position: absolute;
+}
+.custom-btn-second:hover {
+    background-color: white; /* Background color on hover */
+    color: black; /* Text color on hover */
+}
+.custom-hero-container-third .hero-subtitle {
+    font-size: 22px; /* Alt başlık boyutunu ayarlamak için */
+    letter-spacing: 1px;
+}
+.custom-hero-container-fourth .hero-subtitle {
+    font-size: 22px; /* Alt başlık boyutunu ayarlamak için */
+    letter-spacing: 1px;
+}
+.dropdown-item {
+    font-size: 17px;
+    font-family: 'Karla', sans-serif;
+}
+
+
+/* Categories container styles */
+.categories-container {
+    padding: 1rem 0; /* Add padding to top and bottom *
+
+.category p {
+    margin-top: 1rem; /* Add space between image and text */
+    font-family: 'Cormorant Garamond', serif; /* Use Cormorant Garamond font */
+    font-size: 1.5rem; /* Font size */
+    text-align: center; /* Center align text */
+}
+
+.about-container {
+    padding: 2rem 0;
+    background-color: #F4F0EB; /* Arka plan rengi */
+    color: black; /* Yazı rengi */
+}
+
+.about-content img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+}
+
+.about-content p {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+.policies-container {
+    font-family: 'Karla', sans-serif;
+    padding: 3rem 0;
+    background-color: #f8f9fa;
+}
+
+.policies-container h5 {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.policies-container ul {
+    padding-left: 0;
+}
+
+.policies-container ul li {
+    list-style: none;
+    margin-bottom: 0.5rem;
+}
+
+.policies-container ul li a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}
+
+.policies-container ul li a:hover {
+    text-decoration: underline;
+}
+
+.policies-container .form-group {
+    margin-bottom: 1rem;
+}
+
+.policies-container input[type="email"] {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.policies-container button[type="submit"] {
+    width: 100%;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.policies-container button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+

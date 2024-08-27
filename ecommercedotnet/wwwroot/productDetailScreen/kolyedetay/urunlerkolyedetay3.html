@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kolye 3 Detay</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@400;700&family=Cormorant+Garamond:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://kit.fontawesome.com/a076d05399.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="../../css/style.css">
+    <style>
+        body {
+            font-family: 'Karla', sans-serif;
+        }
+
+        .section-title {
+            font-family: 'Cormorant Garamond', serif;
+            margin-bottom: 20px;
+        }
+
+        .product-image {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .product-details {
+            margin-top: 20px;
+        }
+
+        .product-details h3 {
+            margin-bottom: 15px;
+        }
+
+        .product-details p {
+            margin-bottom: 10px;
+        }
+
+        .back-link {
+            margin-top: 20px;
+            display: block;
+            background-color: rgb(60, 10, 10);
+            color: white;
+            border: none;
+        }
+
+        .back-link:hover {
+            background-color: #c9b7b7f0;
+            /* Daha koyu gold rengi */
+        }
+
+        .additional-info {
+            display: none;
+            margin-top: 10px;
+        }
+
+        .show-info {
+            cursor: pointer;
+            color: #3c1305;
+            text-decoration: underline;
+        }
+
+        .show-info:hover {
+            color: #c9b7b7f0;
+        }
+
+        .add-to-cart {
+            background-color: black;
+            color: rgb(255, 255, 255);
+            border: none;
+            margin-top: 20px;
+        }
+
+        .add-to-cart:hover {
+            background-color: #c9b7b7f0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="urunlerDropdown" role="button"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ürünler</a>
+                    <div class="dropdown-menu" aria-labelledby="urunlerDropdown">
+                        <a class="dropdown-item" href="../../productScreen/urunlerkupe.html">Küpe</a>
+                        <a class="dropdown-item" href="../../productScreen/urunlerkolye.html">Kolye</a>
+                        <a class="dropdown-item" href="../../productScreen/urunleryuzuk.html">Yüzük</a>
+                        <a class="dropdown-item" href="../../productScreen/urunlercharm.html">Charm</a>
+                        <a class="dropdown-item" href="../../productScreen/urunlerbileklik.html">Bileklik</a>
+
+                    </div>
+                </li>
+
+            </ul>
+            <button onclick="window.location.href='../../giftScreen/hediye.html'">Hediyeler</button>
+            <button onclick="window.location.href='../../latestScreen/yenigelenler.html'">Yeni Gelenler</button>
+            <span class="navbar-text"><a href="../../homeScreen/index.html">PLUVIA</a></span>
+            <ul class="navbar-nav ml-auto search-container">
+                <li class="nav-item">
+                    <form class="form-inline my-2 my-lg-0">
+                        <div class="search-container">
+                            <input class="form-control mr-sm-2" type="search" placeholder="Ara" aria-label="Search">
+                            <button class="btn" type="submit"><i class="fas fa-search"></i></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fas fa-heart"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../buyScreen/sepet.html"><i class="fas fa-shopping-cart"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" data-toggle="modal" data-target="#loginModal"><i class="fas fa-user"></i></a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Ürün Detayları -->
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="../../../image/urunlerkolye3.png" alt="Kolye 1" class="product-image">
+            </div>
+            <div class="col-md-6 product-details">
+                <h3>INITIAL PENDANT</h3>
+                <p><strong></strong> ₺300</p>
+                <p><strong>Detaylar:</strong> <span class="show-info"
+                        onclick="toggleAdditionalInfo('details')">Göster</span></p>
+                <div id="details" class="additional-info">
+                    <p>14 ayar altın.</p>
+
+                </div>
+                <p><strong>Uyarılar:</strong> <span class="show-info"
+                        onclick="toggleAdditionalInfo('warnings')">Göster</span></p>
+                <div id="warnings" class="additional-info">
+                    <p>Kaliteyi korumak için bir mücevher kutusunda saklayın.</p>
+                    <p>Su ve kimyasallardan uzak tutun.</p>
+                    <p>Takılarınızı her 3-4 ayda bir temizlemenizi öneririz.</p>
+                </div>
+                <a href="../../productScreen/urunlerkolye.html" class="btn back-link">Geri Dön</a>
+                <button class="btn add-to-cart">Sepete Ekle</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script>
+        function toggleAdditionalInfo(id) {
+            const element = document.getElementById(id);
+            element.style.display = (element.style.display === 'none' || element.style.display === '') ? 'block' : 'none';
+        }
+    </script>
+</body>
+
+</html>

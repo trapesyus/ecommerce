@@ -1,0 +1,32 @@
+﻿@model ecommercedotnet.Models.User
+
+<!-- Kayıt Olma Formu -->
+<div class="modal fade" id="signupModal" tabindex="-1" role="dialog" aria-labelledby="signupModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="signupModalLabel">Kayıt Ol</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form asp-controller="SignUp" asp-action="SignUp" method="post">
+                    <div class="form-group">
+                        <label for="userName">Ad Soyad</label>
+                        <input type="text" class="form-control" id="userName" name="UserName" placeholder="Ad Soyad" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">E-posta adresi</label>
+                        <input type="email" class="form-control" id="email" name="Email" placeholder="E-posta adresi" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Şifre</label>
+                        <input type="password" class="form-control" id="password" name="Password" placeholder="Şifre" required>
+                    </div>
+                    <button type="submit" class="btn btn-custom">Kayıt Ol</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

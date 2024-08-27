@@ -1,0 +1,765 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ecommercedotnet.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ecommercedotnet.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\aboutUsScreen\\hakkimizda.html",
+      "PackagePath": "staticwebassets\\aboutUsScreen\\hakkimizda.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\buyScreen\\alisverisitamamla.html",
+      "PackagePath": "staticwebassets\\buyScreen\\alisverisitamamla.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\buyScreen\\odeme.html",
+      "PackagePath": "staticwebassets\\buyScreen\\odeme.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\buyScreen\\sepet.html",
+      "PackagePath": "staticwebassets\\buyScreen\\sepet.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\contactUsScreen\\iletisim.html",
+      "PackagePath": "staticwebassets\\contactUsScreen\\iletisim.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\giftScreen\\hediye.html",
+      "PackagePath": "staticwebassets\\giftScreen\\hediye.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\homeScreen\\index.html",
+      "PackagePath": "staticwebassets\\homeScreen\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\alisverisebasla.png",
+      "PackagePath": "staticwebassets\\image\\alisverisebasla.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\categories\\imageBileklik.png",
+      "PackagePath": "staticwebassets\\image\\categories\\imageBileklik.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\categories\\imageCharm.png",
+      "PackagePath": "staticwebassets\\image\\categories\\imageCharm.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\categories\\imageKolye.png",
+      "PackagePath": "staticwebassets\\image\\categories\\imageKolye.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\categories\\imageKüpe.png",
+      "PackagePath": "staticwebassets\\image\\categories\\imageKüpe.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\categories\\imageYuzuk.png",
+      "PackagePath": "staticwebassets\\image\\categories\\imageYuzuk.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\categories\\urunküpe10.png",
+      "PackagePath": "staticwebassets\\image\\categories\\urunküpe10.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\categories\\urunküpe3.png",
+      "PackagePath": "staticwebassets\\image\\categories\\urunküpe3.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\hakkimizda.png",
+      "PackagePath": "staticwebassets\\image\\hakkimizda.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\hediye1.png",
+      "PackagePath": "staticwebassets\\image\\hediye1.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\hediye2.png",
+      "PackagePath": "staticwebassets\\image\\hediye2.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\hediye3.png",
+      "PackagePath": "staticwebassets\\image\\hediye3.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\hediye4.png",
+      "PackagePath": "staticwebassets\\image\\hediye4.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\hediye5.png",
+      "PackagePath": "staticwebassets\\image\\hediye5.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\hediye6.png",
+      "PackagePath": "staticwebassets\\image\\hediye6.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\iletisim.png",
+      "PackagePath": "staticwebassets\\image\\iletisim.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\imageFirstContainer.png",
+      "PackagePath": "staticwebassets\\image\\imageFirstContainer.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\imageFourthContainer.png",
+      "PackagePath": "staticwebassets\\image\\imageFourthContainer.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\imageSecondContainer.png",
+      "PackagePath": "staticwebassets\\image\\imageSecondContainer.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\imageThirdContainer.png",
+      "PackagePath": "staticwebassets\\image\\imageThirdContainer.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kolye1.png",
+      "PackagePath": "staticwebassets\\image\\kolye1.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kolye1detay.png",
+      "PackagePath": "staticwebassets\\image\\kolye1detay.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kolye2.png",
+      "PackagePath": "staticwebassets\\image\\kolye2.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kolye2detay.png",
+      "PackagePath": "staticwebassets\\image\\kolye2detay.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kolye3.png",
+      "PackagePath": "staticwebassets\\image\\kolye3.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kolye3detay.png",
+      "PackagePath": "staticwebassets\\image\\kolye3detay.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kolye4.png",
+      "PackagePath": "staticwebassets\\image\\kolye4.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kolye4detay.png",
+      "PackagePath": "staticwebassets\\image\\kolye4detay.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kolye5.png",
+      "PackagePath": "staticwebassets\\image\\kolye5.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kolye5detay.png",
+      "PackagePath": "staticwebassets\\image\\kolye5detay.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kupedetay1.png",
+      "PackagePath": "staticwebassets\\image\\kupedetay1.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kupedetay2.html",
+      "PackagePath": "staticwebassets\\image\\kupedetay2.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kupedetay2.png",
+      "PackagePath": "staticwebassets\\image\\kupedetay2.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kupedetay3.png",
+      "PackagePath": "staticwebassets\\image\\kupedetay3.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kupedetay4.png",
+      "PackagePath": "staticwebassets\\image\\kupedetay4.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\kupedetay5.png",
+      "PackagePath": "staticwebassets\\image\\kupedetay5.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\küpe1.png",
+      "PackagePath": "staticwebassets\\image\\küpe1.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\küpe2.png",
+      "PackagePath": "staticwebassets\\image\\küpe2.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\küpe3.png",
+      "PackagePath": "staticwebassets\\image\\küpe3.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\küpe4.png",
+      "PackagePath": "staticwebassets\\image\\küpe4.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\küpe5.png",
+      "PackagePath": "staticwebassets\\image\\küpe5.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunküpe1.png",
+      "PackagePath": "staticwebassets\\image\\urunküpe1.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunküpe2.png",
+      "PackagePath": "staticwebassets\\image\\urunküpe2.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunküpe3.png",
+      "PackagePath": "staticwebassets\\image\\urunküpe3.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunküpe4.png",
+      "PackagePath": "staticwebassets\\image\\urunküpe4.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunküpe5.png",
+      "PackagePath": "staticwebassets\\image\\urunküpe5.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunküpe6.png",
+      "PackagePath": "staticwebassets\\image\\urunküpe6.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunküpe7.png",
+      "PackagePath": "staticwebassets\\image\\urunküpe7.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunküpe8.png",
+      "PackagePath": "staticwebassets\\image\\urunküpe8.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunküpeson.png",
+      "PackagePath": "staticwebassets\\image\\urunküpeson.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerbileklik1.png",
+      "PackagePath": "staticwebassets\\image\\urunlerbileklik1.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerbileklik2.png",
+      "PackagePath": "staticwebassets\\image\\urunlerbileklik2.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerbileklik3.png",
+      "PackagePath": "staticwebassets\\image\\urunlerbileklik3.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerbileklik4.png",
+      "PackagePath": "staticwebassets\\image\\urunlerbileklik4.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerbileklik5.png",
+      "PackagePath": "staticwebassets\\image\\urunlerbileklik5.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlercharm1.png",
+      "PackagePath": "staticwebassets\\image\\urunlercharm1.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlercharm2.png",
+      "PackagePath": "staticwebassets\\image\\urunlercharm2.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlercharm3.png",
+      "PackagePath": "staticwebassets\\image\\urunlercharm3.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlercharm4.png",
+      "PackagePath": "staticwebassets\\image\\urunlercharm4.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlercharm5.png",
+      "PackagePath": "staticwebassets\\image\\urunlercharm5.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerkolye1.png",
+      "PackagePath": "staticwebassets\\image\\urunlerkolye1.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerkolye10.png",
+      "PackagePath": "staticwebassets\\image\\urunlerkolye10.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerkolye2.png",
+      "PackagePath": "staticwebassets\\image\\urunlerkolye2.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerkolye3.png",
+      "PackagePath": "staticwebassets\\image\\urunlerkolye3.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerkolye4.png",
+      "PackagePath": "staticwebassets\\image\\urunlerkolye4.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerkolye5.png",
+      "PackagePath": "staticwebassets\\image\\urunlerkolye5.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerkolye6.png",
+      "PackagePath": "staticwebassets\\image\\urunlerkolye6.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerkolye7.png",
+      "PackagePath": "staticwebassets\\image\\urunlerkolye7.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerkolye8.png",
+      "PackagePath": "staticwebassets\\image\\urunlerkolye8.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunlerkolye9.png",
+      "PackagePath": "staticwebassets\\image\\urunlerkolye9.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunleryuzuk1.png",
+      "PackagePath": "staticwebassets\\image\\urunleryuzuk1.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunleryuzuk2.png",
+      "PackagePath": "staticwebassets\\image\\urunleryuzuk2.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunleryuzuk3.png",
+      "PackagePath": "staticwebassets\\image\\urunleryuzuk3.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunleryuzuk4.png",
+      "PackagePath": "staticwebassets\\image\\urunleryuzuk4.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\urunleryuzuk5.png",
+      "PackagePath": "staticwebassets\\image\\urunleryuzuk5.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\image\\yazi.png",
+      "PackagePath": "staticwebassets\\image\\yazi.png"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\infoScreen\\satis-sozlesmesi.html",
+      "PackagePath": "staticwebassets\\infoScreen\\satis-sozlesmesi.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\infoScreen\\sss.html",
+      "PackagePath": "staticwebassets\\infoScreen\\sss.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\latestScreen\\yenigelenler.html",
+      "PackagePath": "staticwebassets\\latestScreen\\yenigelenler.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay1.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay1.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay2.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay2.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay3.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay3.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay4.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay4.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay5.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay5.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\charmdetay\\urunlercharmdetay1.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\charmdetay\\urunlercharmdetay1.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\charmdetay\\urunlercharmdetay2.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\charmdetay\\urunlercharmdetay2.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\charmdetay\\urunlercharmdetay3.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\charmdetay\\urunlercharmdetay3.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\charmdetay\\urunlercharmdetay4.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\charmdetay\\urunlercharmdetay4.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\charmdetay\\urunlercharmdetay5.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\charmdetay\\urunlercharmdetay5.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay1.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kolyedetay\\urunlerkolyedetay1.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay10.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kolyedetay\\urunlerkolyedetay10.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay2.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kolyedetay\\urunlerkolyedetay2.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay3.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kolyedetay\\urunlerkolyedetay3.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay4.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kolyedetay\\urunlerkolyedetay4.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay5.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kolyedetay\\urunlerkolyedetay5.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay6.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kolyedetay\\urunlerkolyedetay6.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay7.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kolyedetay\\urunlerkolyedetay7.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay8.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kolyedetay\\urunlerkolyedetay8.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay9.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kolyedetay\\urunlerkolyedetay9.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye1detay.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kupedetay\\kolye1detay.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye2detay.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kupedetay\\kolye2detay.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye3detay.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kupedetay\\kolye3detay.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye4detay.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kupedetay\\kolye4detay.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye5detay.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kupedetay\\kolye5detay.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe1detay.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kupedetay\\kupe1detay.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe2detay.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kupedetay\\kupe2detay.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe3detay.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\kupedetay\\kupe3detay.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay1.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay1.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay2.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay2.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay3.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay3.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay4.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay4.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay5.html",
+      "PackagePath": "staticwebassets\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay5.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productScreen\\urunlerbileklik.html",
+      "PackagePath": "staticwebassets\\productScreen\\urunlerbileklik.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productScreen\\urunlercharm.html",
+      "PackagePath": "staticwebassets\\productScreen\\urunlercharm.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productScreen\\urunlerkolye.html",
+      "PackagePath": "staticwebassets\\productScreen\\urunlerkolye.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productScreen\\urunlerkupe.html",
+      "PackagePath": "staticwebassets\\productScreen\\urunlerkupe.html"
+    },
+    {
+      "Id": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productScreen\\urunleryuzuk.html",
+      "PackagePath": "staticwebassets\\productScreen\\urunleryuzuk.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ecommercedotnet.props",
+      "PackagePath": "build\\ecommercedotnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ecommercedotnet.props",
+      "PackagePath": "buildMultiTargeting\\ecommercedotnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ecommercedotnet.props",
+      "PackagePath": "buildTransitive\\ecommercedotnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ecommercedotnet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

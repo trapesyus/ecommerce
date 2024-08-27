@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımızda - Pluvia</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@400;700&family=Cormorant+Garamond:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://kit.fontawesome.com/a076d05399.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="../../css/style.css">
+    <style>
+        /* Hakkımızda sayfası CSS */
+        .hero-container {
+            position: relative;
+            width: 100%;
+            height: 100vh; /* Tam ekran yüksekliği */
+            overflow: hidden; /* Taşmaları gizler */
+        }
+
+        .hero-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Resmi kapsar */
+            object-position: center; /* Ortalar */
+            z-index: 1; /* İçeriğin arkasında kalır */
+        }
+
+        .hero-content {
+            position: absolute;
+            top: 50%;
+            left: 0; /* Sol köşeye hizala */
+            transform: translateY(-50%); /* Y ekseninde ortala */
+            text-align: left; /* Metni sola hizala */
+            color: white; /* Metin rengi */
+            padding: 2rem; /* İçerikte boşluk bırak */
+            z-index: 2; /* Resmin üstünde kalır */
+            max-width: 50%; /* İçeriğin genişliğini sınırlayarak sığmasını sağla */
+        }
+
+        .hero-content h1 {
+            font-size: 3rem; /* Başlık boyutu */
+            margin-bottom: 1rem; /* Başlık ile alt yazı arasındaki boşluk */
+            font-family: 'Karla', sans-serif; /* Set font to Karla */
+        }
+
+        .hero-content p {
+            font-size: 1.3rem; /* Alt yazı boyutu */
+            line-height: 1.4; /* Satır yüksekliği */
+            font-family: 'Karla', sans-serif; /* Set font to Karla */
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="urunlerDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ürünler</a>
+                    <div class="dropdown-menu" aria-labelledby="urunlerDropdown">
+                        <a class="dropdown-item" href="#">Küpe</a>
+                        <a class="dropdown-item" href="#">Kolye</a>
+                        <a class="dropdown-item" href="#">Yüzük</a>
+                        <a class="dropdown-item" href="#">Charm</a>
+                        <a class="dropdown-item" href="#">Bileklik</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="yeniGelenlerDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Yeni Gelenler</a>
+                    <div class="dropdown-menu" aria-labelledby="yeniGelenlerDropdown">
+                        <a class="dropdown-item" href="#">Ürün 1</a>
+                        <a class="dropdown-item" href="#">Ürün 2</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="hediyeDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Hediye</a>
+                    <div class="dropdown-menu" aria-labelledby="hediyeDropdown">
+                        <a class="dropdown-item" href="#">Kolye</a>
+                        <a class="dropdown-item" href="#">Bileklik</a>
+                    </div>
+                </li>
+            </ul>
+            <span class="navbar-text">PLUVIA</span>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <form class="form-inline my-2 my-lg-0">
+                        <div class="search-container">
+                            <input class="form-control mr-sm-2" type="search" placeholder="Ara" aria-label="Search">
+                            <button class="btn" type="submit"><i class="fas fa-search"></i></button>
+                        </div>
+                    </form>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fas fa-heart"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fas fa-shopping-cart"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fas fa-user"></i></a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="hero-container">
+        <img src="../../image/hakkimizda.png" alt="Hakkımızda" class="hero-image">
+        <div class="hero-content">
+            <h1>Hakkımızda</h1>
+            <p>Doğanın büyüleyici dönüşümünden ilham alarak eşsiz ve zarif takılar tasarlıyoruz. Güz mevsiminin altın tonlarından ilham alan koleksiyonlarımız, her anınıza ışıltı ve zarafet katmak için özenle tasarlandı.<br><br>
+            Değerlerimiz arasında doğaya saygı, estetik ve kalite yer almaktadır. Takılarımızın her birinde, doğanın eşsiz güzelliklerini ve altının asaletiyle bütünleşen zarif detayları bulacaksınız. Sürdürülebilir ve etik üretim anlayışımızla, doğaya ve topluma karşı sorumluluğumuzu daima ön planda tutuyoruz.</p>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</body>
+</html>

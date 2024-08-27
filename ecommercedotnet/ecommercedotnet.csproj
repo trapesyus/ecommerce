@@ -1,0 +1,73 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>9c63ab5e-c424-4680-8083-0704cbe2f5e0</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\aboutUsScreen\hakkimizda.html" />
+    <None Include="wwwroot\buyScreen\alisverisitamamla.html" />
+    <None Include="wwwroot\buyScreen\odeme.html" />
+    <None Include="wwwroot\buyScreen\sepet.html" />
+    <None Include="wwwroot\contactUsScreen\iletisim.html" />
+    <None Include="wwwroot\giftScreen\hediye.html" />
+    <None Include="wwwroot\infoScreen\satis-sozlesmesi.html" />
+    <None Include="wwwroot\infoScreen\sss.html" />
+    <None Include="wwwroot\latestScreen\yenigelenler.html" />
+    <None Include="wwwroot\productDetailScreen\bileklikdetay\urunlerbileklikdetay1.html" />
+    <None Include="wwwroot\productDetailScreen\bileklikdetay\urunlerbileklikdetay2.html" />
+    <None Include="wwwroot\productDetailScreen\bileklikdetay\urunlerbileklikdetay3.html" />
+    <None Include="wwwroot\productDetailScreen\bileklikdetay\urunlerbileklikdetay4.html" />
+    <None Include="wwwroot\productDetailScreen\bileklikdetay\urunlerbileklikdetay5.html" />
+    <None Include="wwwroot\productDetailScreen\charmdetay\urunlercharmdetay1.html" />
+    <None Include="wwwroot\productDetailScreen\charmdetay\urunlercharmdetay2.html" />
+    <None Include="wwwroot\productDetailScreen\charmdetay\urunlercharmdetay3.html" />
+    <None Include="wwwroot\productDetailScreen\charmdetay\urunlercharmdetay4.html" />
+    <None Include="wwwroot\productDetailScreen\charmdetay\urunlercharmdetay5.html" />
+    <None Include="wwwroot\productDetailScreen\kolyedetay\urunlerkolyedetay1.html" />
+    <None Include="wwwroot\productDetailScreen\kolyedetay\urunlerkolyedetay10.html" />
+    <None Include="wwwroot\productDetailScreen\kolyedetay\urunlerkolyedetay2.html" />
+    <None Include="wwwroot\productDetailScreen\kolyedetay\urunlerkolyedetay3.html" />
+    <None Include="wwwroot\productDetailScreen\kolyedetay\urunlerkolyedetay4.html" />
+    <None Include="wwwroot\productDetailScreen\kolyedetay\urunlerkolyedetay5.html" />
+    <None Include="wwwroot\productDetailScreen\kolyedetay\urunlerkolyedetay6.html" />
+    <None Include="wwwroot\productDetailScreen\kolyedetay\urunlerkolyedetay7.html" />
+    <None Include="wwwroot\productDetailScreen\kolyedetay\urunlerkolyedetay8.html" />
+    <None Include="wwwroot\productDetailScreen\kolyedetay\urunlerkolyedetay9.html" />
+    <None Include="wwwroot\productDetailScreen\kupedetay\kolye1detay.html" />
+    <None Include="wwwroot\productDetailScreen\kupedetay\kolye2detay.html" />
+    <None Include="wwwroot\productDetailScreen\kupedetay\kolye3detay.html" />
+    <None Include="wwwroot\productDetailScreen\kupedetay\kolye4detay.html" />
+    <None Include="wwwroot\productDetailScreen\kupedetay\kolye5detay.html" />
+    <None Include="wwwroot\productDetailScreen\kupedetay\kupe1detay.html" />
+    <None Include="wwwroot\productDetailScreen\kupedetay\kupe2detay.html" />
+    <None Include="wwwroot\productDetailScreen\kupedetay\kupe3detay.html" />
+    <None Include="wwwroot\productDetailScreen\yuzukdetay\urunleryuzukdetay1.html" />
+    <None Include="wwwroot\productDetailScreen\yuzukdetay\urunleryuzukdetay2.html" />
+    <None Include="wwwroot\productDetailScreen\yuzukdetay\urunleryuzukdetay3.html" />
+    <None Include="wwwroot\productDetailScreen\yuzukdetay\urunleryuzukdetay4.html" />
+    <None Include="wwwroot\productDetailScreen\yuzukdetay\urunleryuzukdetay5.html" />
+    <None Include="wwwroot\productScreen\urunlerbileklik.html" />
+    <None Include="wwwroot\productScreen\urunlercharm.html" />
+    <None Include="wwwroot\productScreen\urunlerkolye.html" />
+    <None Include="wwwroot\productScreen\urunlerkupe.html" />
+    <None Include="wwwroot\productScreen\urunleryuzuk.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.SqlServer.Server" Version="1.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.4" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.0" />
+  </ItemGroup>
+
+</Project>
