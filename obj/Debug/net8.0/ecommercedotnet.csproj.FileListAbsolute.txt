@@ -28,3 +28,16 @@ C:\Users\kavraz\Desktop\ecommerce with dotnet\ecommercedotnet\ecommercedotnet\ob
 C:\Users\kavraz\Desktop\ecommerce with dotnet\ecommercedotnet\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.pdb
 C:\Users\kavraz\Desktop\ecommerce with dotnet\ecommercedotnet\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.genruntimeconfig.cache
 C:\Users\kavraz\Desktop\ecommerce with dotnet\ecommercedotnet\ecommercedotnet\obj\Debug\net8.0\ref\ecommercedotnet.dll
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.csproj.AssemblyReference.cache
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.AssemblyInfoInputs.cache
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.AssemblyInfo.cs
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.csproj.CoreCompileInputs.cache
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.RazorAssemblyInfo.cache
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.RazorAssemblyInfo.cs
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.sourcelink.json
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.dll
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\obj\Debug\net8.0\refint\ecommercedotnet.dll
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.pdb

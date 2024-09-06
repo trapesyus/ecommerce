@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<body>
+
+    <!-- Ürün Detayları -->
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="../../../image/urunleryuzuk3.png" alt="Kolye 1" class="product-image">
+            </div>
+            <div class="col-md-6 product-details">
+                <h3>INITIAL PENDANT</h3>
+                <p><strong></strong> ₺300</p>
+                <p><strong>Detaylar:</strong> <span class="show-info" onclick="toggleAdditionalInfo('details')">Göster</span></p>
+                <div id="details" class="additional-info">
+                    <p>14 ayar altın.</p>
+
+                </div>
+                <p><strong>Uyarılar:</strong> <span class="show-info" onclick="toggleAdditionalInfo('warnings')">Göster</span></p>
+                <div id="warnings" class="additional-info">
+                    <p>Kaliteyi korumak için bir mücevher kutusunda saklayın.</p>
+                    <p>Su ve kimyasallardan uzak tutun.</p>
+                    <p>Takılarınızı her 3-4 ayda bir temizlemenizi öneririz.</p>
+                </div>
+                <a href="../../productScreen/urunleryuzuk.html" class="btn back-link">Geri Dön</a>
+                <button class="btn add-to-cart">Sepete Ekle</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script>
+        function toggleAdditionalInfo(id) {
+            const element = document.getElementById(id);
+            element.style.display = (element.style.display === 'none' || element.style.display === '') ? 'block' : 'none';
+        }
+    </script>
+</body>
+</html>

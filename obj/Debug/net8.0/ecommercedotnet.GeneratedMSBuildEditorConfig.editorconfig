@@ -9,39 +9,107 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ecommercedotnet
 build_property.RootNamespace = ecommercedotnet
-build_property.ProjectDir = C:\Users\kavraz\Desktop\ecommerce with dotnet\ecommercedotnet\ecommercedotnet\
+build_property.ProjectDir = C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\kavraz\Desktop\ecommerce with dotnet\ecommercedotnet\ecommercedotnet
+build_property.MSBuildProjectDirectory = C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/kavraz/Desktop/ecommerce with dotnet/ecommercedotnet/ecommercedotnet/Views/Home/Index.cshtml]
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXExvZ2luXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/Login/LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXExvZ2luXExvZ2luUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/ProductDetailScreen/KupeDetay/Kupe1Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXFByb2R1Y3REZXRhaWxTY3JlZW5cS3VwZURldGF5XEt1cGUxRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/ProductScreen/UrunlerKupe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXFByb2R1Y3RTY3JlZW5cVXJ1bmxlckt1cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/Shared/Kupe1Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXFNoYXJlZFxLdXBlMURldGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/Shared/LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXFNoYXJlZFxMb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/Shared/SignUpPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXFNoYXJlZFxTaWduVXBQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/Shared/UrunlerKupe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXFNoYXJlZFxVcnVubGVyS3VwZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/SignUp/SignUpPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXFNpZ25VcFxTaWduVXBQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kavraz/Desktop/ecommerce with dotnet/ecommercedotnet/ecommercedotnet/Views/Home/Privacy.cshtml]
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kavraz/Desktop/ecommerce with dotnet/ecommercedotnet/ecommercedotnet/Views/Shared/Error.cshtml]
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kavraz/Desktop/ecommerce with dotnet/ecommercedotnet/ecommercedotnet/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kavraz/Desktop/ecommerce with dotnet/ecommercedotnet/ecommercedotnet/Views/_ViewImports.cshtml]
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kavraz/Desktop/ecommerce with dotnet/ecommercedotnet/ecommercedotnet/Views/_ViewStart.cshtml]
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kavraz/Desktop/ecommerce with dotnet/ecommercedotnet/ecommercedotnet/Views/Shared/_Layout.cshtml]
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWNvbW1lcmNlZG90bmV0XFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-pkbanc27ws
+
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-c0v8qztpvh

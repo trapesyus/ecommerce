@@ -424,3 +424,4 @@ C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\e
 C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\ecommercedotnet\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\ecommercedotnet\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\ecommercedotnet\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\ecommercedotnet\obj\Debug\net8.0\ecommercedotnet.sourcelink.json

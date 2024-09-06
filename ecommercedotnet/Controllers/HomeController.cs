@@ -55,7 +55,7 @@ namespace ecommercedotnet.Controllers
                     await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme,
                         new ClaimsPrincipal(claimsIdentity), authProperties);
                     // Baþarýlý giriþ iþlemi
-                    return RedirectToAction("Privacy", "Home");
+                    return RedirectToAction("Index", "Home");
                 }
                 else
                 {

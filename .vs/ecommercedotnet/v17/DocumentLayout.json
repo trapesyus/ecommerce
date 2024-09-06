@@ -3,28 +3,480 @@
   "WorkspaceRootPath": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\charmdetailcontroller\\charm2detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\charmdetailcontroller\\charm2detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productscreencontrollers\\urunlercharmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productscreencontrollers\\urunlercharmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productscreencontrollers\\urunlerbileklikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productscreencontrollers\\urunlerbileklikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productscreencontrollers\\urunlerkolyecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productscreencontrollers\\urunlerkolyecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productscreencontrollers\\urunlerkupecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productscreencontrollers\\urunlerkupecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productscreen\\urunlerbileklik.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productscreen\\urunlerbileklik.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\urunlerbileklik.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\urunlerbileklik.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\urunlercharm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\urunlercharm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\charm2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\charm2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\signup\\signuppartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\signup\\signuppartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productscreen\\urunlercharm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productscreen\\urunlercharm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\signuppartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\signuppartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\charmdetay\\charm2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\charmdetay\\charm2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\charmdetailcontroller\\charm5detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\charmdetailcontroller\\charm5detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\charmdetailcontroller\\charm4detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\charmdetailcontroller\\charm4detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\charmdetailcontroller\\charm3detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\charmdetailcontroller\\charm3detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\charmdetailcontroller\\charm1detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\charmdetailcontroller\\charm1detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\bileklikdetaycontroller\\bileklik1detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\bileklikdetaycontroller\\bileklik1detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\charmdetay\\charm5detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\charmdetay\\charm5detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\charmdetay\\charm1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\charmdetay\\charm1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productscreen\\urunlerkupe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productscreen\\urunlerkupe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productscreen\\urunleryuzuk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productscreen\\urunleryuzuk.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\charmdetay\\charm4detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\charmdetay\\charm4detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\charmdetay\\charm3detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\charmdetay\\charm3detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\bileklikdetay\\bileklik5detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\bileklikdetay\\bileklik5detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\bileklikdetay\\urunlerbileklikdetay5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\bileklikdetay\\urunlerbileklikdetay5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\bileklikdetay\\bileklik4detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\bileklikdetay\\bileklik4detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\bileklikdetay\\bileklik3detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\bileklikdetay\\bileklik3detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\bileklikdetay\\bileklik2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\bileklikdetay\\bileklik2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\bileklikdetay\\bileklik1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\bileklikdetay\\bileklik1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productscreen\\urunlerbileklik.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productscreen\\urunlerbileklik.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productscreen\\urunlerkolye.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productscreen\\urunlerkolye.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productscreen\\urunleryuzuk.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productscreen\\urunleryuzuk.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\bileklikdetaycontroller\\bileklik5detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\bileklikdetaycontroller\\bileklik5detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\bileklikdetaycontroller\\bileklik4detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\bileklikdetaycontroller\\bileklik4detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\bileklikdetaycontroller\\bileklik3detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\bileklikdetaycontroller\\bileklik3detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\bileklikdetaycontroller\\bileklik2detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\bileklikdetaycontroller\\bileklik2detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye1detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye1detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\yuzukdetay\\yuzuk5detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\yuzukdetay\\yuzuk5detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\yuzukdetay\\urunleryuzukdetay5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\yuzukdetay\\urunleryuzukdetay5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\yuzukdetay\\yuzuk4detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\yuzukdetay\\yuzuk4detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\yuzukdetay\\yuzuk3detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\yuzukdetay\\yuzuk3detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\yuzukdetay\\urunleryuzukdetay3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\yuzukdetay\\urunleryuzukdetay3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\yuzukdetay\\yuzuk2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\yuzukdetay\\yuzuk2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\yuzukdetay\\urunleryuzukdetay2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\yuzukdetay\\urunleryuzukdetay2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\yuzukdetay\\yuzuk1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\yuzukdetay\\yuzuk1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\yuzukdetay\\urunleryuzukdetay1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\yuzukdetay\\urunleryuzukdetay1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\yuzukdetaycontroller\\yuzuk5detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\yuzukdetaycontroller\\yuzuk5detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\yuzukdetaycontroller\\yuzuk4detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\yuzukdetaycontroller\\yuzuk4detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\yuzukdetaycontroller\\yuzuk3detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\yuzukdetaycontroller\\yuzuk3detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\yuzukdetaycontroller\\yuzuk2detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\yuzukdetaycontroller\\yuzuk2detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\yuzukdetaycontroller\\yuzuk1detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\yuzukdetaycontroller\\yuzuk1detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productscreencontrollers\\urunleryuzukcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productscreencontrollers\\urunleryuzukcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe1detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe1detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\urunlerkolye.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\urunlerkolye.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\kolye8detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\kolye8detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye2detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye2detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye10detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye10detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye9detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye9detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye8detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye8detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye7detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye7detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye6detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye6detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye5detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye5detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye4detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye4detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye3detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kolyedetaycontroller\\kolye3detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye4detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye4detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\kupe6detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\kupe6detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\kolye7detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\kolye7detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\kolye6detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\kolye6detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\kolye5detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\kolye5detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\kolye4detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\kolye4detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\kolye10detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\kolye10detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\kolye1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\kolye1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye10detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye10detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye8detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye8detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay10.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay10.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye9detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye9detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay9.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay9.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye7detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye7detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay7.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye6detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye6detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye5detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye5detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye3detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye3detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kolyedetay\\kolye2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kolyedetay\\urunlerkolyedetay2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\urunlerkupe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\urunlerkupe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kupedetay\\kupe1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kupedetay\\kupe1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\kupe8detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\kupe8detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kupedetay\\kupe8detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kupedetay\\kupe8detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe8detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe8detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kupe3detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kupe3detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kupedetay\\kupe7detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kupedetay\\kupe7detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe7detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe7detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kupe2detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kupe2detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kupedetay\\kupe6detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kupedetay\\kupe6detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe6detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe6detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kupe1detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kupe1detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\kupe5detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\kupe5detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kolye5detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kolye5detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe5detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe5detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\kupe4detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\kupe4detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe4detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe4detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kolye4detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kolye4detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kupedetay\\kupe3detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kupedetay\\kupe3detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe3detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe3detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kolye3detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kolye3detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\productdetailscreen\\kupedetay\\kupe2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\productdetailscreen\\kupedetay\\kupe2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\kupe2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\kupe2detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\kupe1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\kupe1detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe2detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productdetailscreencontrollers\\kupedetaycontroller\\kupe2detaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kolye2detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\wwwroot\\productdetailscreen\\kupedetay\\kolye2detay.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,21 +486,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "ecommercedotnet\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowCoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T19:17:43.166Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -59,68 +498,1456 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UrunlerBileklikController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerBileklikController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerBileklikController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerBileklikController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerBileklikController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:59:40.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Title": "UrunlerCharmController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerCharmController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerCharmController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerCharmController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerCharmController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:58:59.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UrunlerBileklik.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\UrunlerBileklik.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\UrunlerBileklik.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\UrunlerBileklik.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\UrunlerBileklik.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T19:11:30.962Z",
+              "WhenOpened": "2024-09-05T21:58:09.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ecommercedotnet\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T19:11:13.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SignUpController.cs",
-              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\SignUpController.cs",
-              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\SignUpController.cs",
-              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\SignUpController.cs",
-              "RelativeToolTip": "ecommercedotnet\\Controllers\\SignUpController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAApAAAA",
+              "Title": "Charm2DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm2DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm2DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm2DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm2DetayController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T19:09:47.381Z",
+              "WhenOpened": "2024-09-05T21:51:41.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SignUpPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\SignUpPartial.cshtml",
-              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\SignUpPartial.cshtml",
-              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\SignUpPartial.cshtml",
-              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\SignUpPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABcAAAA",
+              "DocumentIndex": 16,
+              "Title": "Charm1DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm1DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm1DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm1DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm1DetayController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwEAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:50:59.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T19:07:30.392Z",
+              "WhenOpened": "2024-09-05T18:53:56.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "urunlerbileklik.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productScreen\\urunlerbileklik.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productScreen\\urunlerbileklik.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productScreen\\urunlerbileklik.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productScreen\\urunlerbileklik.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T21:21:38.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SignUpPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\SignUp\\SignUpPartial.cshtml",
-              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\SignUp\\SignUpPartial.cshtml",
-              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\SignUp\\SignUpPartial.cshtml",
-              "RelativeToolTip": "ecommercedotnet\\Views\\SignUp\\SignUpPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T19:07:15.226Z",
+              "Title": "UrunlerKolyeController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKolyeController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKolyeController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKolyeController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKolyeController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:15:46.955Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Charm3DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm3DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm3DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm3DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm3DetayController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:52:01.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Charm4DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm4DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm4DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm4DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm4DetayController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:52:39.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UrunlerKupeController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKupeController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKupeController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKupeController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKupeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:52:16.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Charm5DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm5DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm5DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm5DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm5DetayController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:53:03.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UrunlerCharm.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\UrunlerCharm.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\UrunlerCharm.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\UrunlerCharm.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\UrunlerCharm.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAMwDoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:54:18.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:58:44.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Charm2Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Charm2Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Charm2Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Charm2Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Charm2Detay.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAnwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:54:14.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UrunlerCharm.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerCharm.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductScreen\\UrunlerCharm.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerCharm.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductScreen\\UrunlerCharm.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAWwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:48:35.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Charm2Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm2Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm2Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm2Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm2Detay.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:46:34.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Charm5Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm5Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm5Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm5Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm5Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:48:10.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Charm4Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm4Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm4Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm4Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm4Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:47:49.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Charm1Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm1Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm1Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm1Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm1Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:46:06.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UrunlerKupe.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerKupe.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductScreen\\UrunlerKupe.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerKupe.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductScreen\\UrunlerKupe.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:48:56.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Bileklik1DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik1DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik1DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik1DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik1DetayController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:17:08.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Charm3Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm3Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm3Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm3Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm3Detay.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:47:00.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UrunlerYuzuk.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerYuzuk.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductScreen\\UrunlerYuzuk.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerYuzuk.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductScreen\\UrunlerYuzuk.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:15:03.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Bileklik5Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik5Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik5Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik5Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik5Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:26:36.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Bileklik3Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik3Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik3Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik3Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik3Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:25:28.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Bileklik2Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik2Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik2Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik2Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik2Detay.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:24:58.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Bileklik1Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik1Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik1Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik1Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik1Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:24:27.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UrunlerBileklik.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerBileklik.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductScreen\\UrunlerBileklik.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerBileklik.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductScreen\\UrunlerBileklik.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:21:57.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Bileklik4Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik4Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik4Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik4Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik4Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:26:10.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "urunlerbileklikdetay5.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay5.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay5.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay5.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay5.html",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAYwIwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T21:26:39.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Bileklik5DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik5DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik5DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik5DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik5DetayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:19:15.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Bileklik4DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik4DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik4DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik4DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik4DetayController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:18:48.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Bileklik3DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik3DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik3DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik3DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik3DetayController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:18:18.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UrunlerKolye.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerKolye.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductScreen\\UrunlerKolye.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerKolye.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductScreen\\UrunlerKolye.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:18:37.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "urunleryuzuk.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productScreen\\urunleryuzuk.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productScreen\\urunleryuzuk.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productScreen\\urunleryuzuk.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productScreen\\urunleryuzuk.html",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAgwBABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T21:14:28.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Bileklik2DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik2DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik2DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik2DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik2DetayController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:17:54.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "urunleryuzukdetay5.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay5.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay5.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay5.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay5.html",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAYwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T21:14:31.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Yuzuk5Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk5Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk5Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk5Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk5Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:14:23.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Yuzuk4Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk4Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk4Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk4Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk4Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:13:54.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Yuzuk3Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk3Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk3Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk3Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk3Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:13:23.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Kolye1DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye1DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye1DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye1DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye1DetayController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:08:47.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "urunleryuzukdetay3.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay3.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay3.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay3.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay3.html",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAYwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T21:13:27.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "urunleryuzukdetay2.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay2.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay2.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay2.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay2.html",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAYwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T21:12:52.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Yuzuk2Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk2Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk2Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk2Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk2Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:12:48.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "urunleryuzukdetay1.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay1.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay1.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay1.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay1.html",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAYwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T21:12:13.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Yuzuk1Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk1Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk1Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk1Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk1Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:12:10.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UrunlerYuzukController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerYuzukController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerYuzukController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerYuzukController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerYuzukController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:09:52.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Yuzuk5DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk5DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk5DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk5DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk5DetayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:09:04.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Yuzuk4DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk4DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk4DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk4DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk4DetayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:08:33.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Yuzuk3DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk3DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk3DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk3DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk3DetayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:05:50.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Yuzuk2DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk2DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk2DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk2DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk2DetayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:05:16.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Yuzuk1DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk1DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk1DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk1DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk1DetayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:04:00.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Kolye8DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye8DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye8DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye8DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye8DetayController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:13:57.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Kolye8Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye8Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye8Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye8Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Kolye8Detay.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAtwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:33:41.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Kolye10DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye10DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye10DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye10DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye10DetayController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:15:07.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Kupe1DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe1DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe1DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe1DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe1DetayController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:33:32.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Kolye4DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye4DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye4DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye4DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye4DetayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:10:36.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Kolye5DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye5DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye5DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye5DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye5DetayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:11:39.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UrunlerKolye.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\UrunlerKolye.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\UrunlerKolye.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\UrunlerKolye.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\UrunlerKolye.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:54:42.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Kolye2DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye2DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye2DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye2DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye2DetayController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:09:38.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Kolye9DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye9DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye9DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye9DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye9DetayController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:14:23.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Kolye7DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye7DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye7DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye7DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye7DetayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:12:49.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Kolye6DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye6DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye6DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye6DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye6DetayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:12:22.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Kolye3DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye3DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye3DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye3DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye3DetayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:10:11.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Kolye4Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye4Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye4Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye4Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye4Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:23:01.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Kupe6Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe6Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kupe6Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe6Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Kupe6Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:30:11.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Kolye7Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye7Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye7Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye7Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Kolye7Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:30:01.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Kolye6Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye6Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye6Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye6Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Kolye6Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:30:00.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Kolye5Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye5Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye5Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye5Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Kolye5Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:30:00.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Kolye4Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye4Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye4Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye4Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Kolye4Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:29:59.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Kolye10Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye10Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye10Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye10Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Kolye10Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:28:13.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Kolye1Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye1Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye1Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye1Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Kolye1Detay.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:28:09.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Kolye10Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye10Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye10Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye10Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye10Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:26:30.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "urunlerkolyedetay10.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay10.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay10.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay10.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay10.html",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAowKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T20:26:34.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Kolye9Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye9Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye9Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye9Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye9Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:25:42.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Kolye8Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye8Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye8Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye8Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye8Detay.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:25:09.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Kolye1Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye1Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye1Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye1Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye1Detay.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwDMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:17:50.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "urunlerkolyedetay1.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay1.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay1.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay1.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay1.html",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAowIcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T20:17:55.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "urunlerkolyedetay9.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay9.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay9.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay9.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay9.html",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAowKkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T20:25:45.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "urunlerkolyedetay8.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay8.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay8.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay8.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay8.html",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAowKoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T20:25:12.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Kolye7Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye7Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye7Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye7Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye7Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:24:42.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "urunlerkolyedetay7.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay7.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay7.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay7.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay7.html",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAswKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T20:24:44.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "urunlerkolyedetay6.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay6.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay6.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay6.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay6.html",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAowKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T20:24:19.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Kolye6Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye6Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye6Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye6Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye6Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:24:16.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Kolye5Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye5Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye5Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye5Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye5Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:23:51.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "urunlerkolyedetay5.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay5.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay5.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay5.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay5.html",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAowKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T20:23:32.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "urunlerkolyedetay4.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay4.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay4.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay4.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay4.html",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAowKgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T20:23:04.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "urunlerkolyedetay3.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay3.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay3.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay3.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay3.html",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAowKkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T20:22:25.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Kolye3Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye3Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye3Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye3Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye3Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:22:19.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "urunlerkolyedetay2.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay2.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay2.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay2.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay2.html",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAowKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T20:21:47.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Kolye2Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye2Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye2Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye2Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye2Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:21:40.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:59:39.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "kupe3detay.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe3detay.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe3detay.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe3detay.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe3detay.html",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAowKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T18:48:09.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Kupe7Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe7Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe7Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe7Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe7Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:47:48.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Kupe7DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe7DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe7DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe7DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe7DetayController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwD0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:47:27.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "kupe2detay.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe2detay.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe2detay.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe2detay.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe2detay.html",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAowKoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T18:47:24.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Kupe6Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe6Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe6Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe6Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe6Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:46:35.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "UrunlerKupe.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\UrunlerKupe.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\UrunlerKupe.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\UrunlerKupe.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\UrunlerKupe.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:38:19.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Kupe8Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe8Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kupe8Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe8Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Kupe8Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:55:41.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Kupe1Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe1Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe1Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe1Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe1Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:35:23.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Kupe8DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe8DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe8DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe8DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe8DetayController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:48:14.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Kupe8Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe8Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe8Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe8Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe8Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:48:32.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Kupe6DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe6DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe6DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe6DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe6DetayController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:46:04.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "kupe1detay.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe1detay.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe1detay.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe1detay.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe1detay.html",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAuwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T18:45:59.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Kupe5Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe5Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kupe5Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe5Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Kupe5Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:44:35.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "kolye5detay.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye5detay.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye5detay.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye5detay.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye5detay.html",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAuwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T18:44:20.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Kupe5DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe5DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe5DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe5DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe5DetayController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:44:07.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Kupe4Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe4Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kupe4Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe4Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Kupe4Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:43:44.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Kupe4DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe4DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe4DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe4DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe4DetayController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:43:26.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "kolye4detay.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye4detay.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye4detay.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye4detay.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye4detay.html",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAuwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T18:43:22.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "Kupe3Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe3Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe3Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe3Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe3Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:42:49.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "kolye3detay.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye3detay.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye3detay.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye3detay.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye3detay.html",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T18:42:25.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Kupe3DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe3DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe3DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe3DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe3DetayController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwD0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:42:16.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Kupe2Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe2Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kupe2Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe2Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Kupe2Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:40:50.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "kolye2detay.html",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye2detay.html",
+              "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye2detay.html",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye2detay.html",
+              "RelativeToolTip": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye2detay.html",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAuwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-05T18:36:48.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "Kupe2Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe2Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe2Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe2Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe2Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:36:44.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Kupe1Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe1Detay.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kupe1Detay.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe1Detay.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Kupe1Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T18:34:28.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "Kupe2DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe2DetayController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe2DetayController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe2DetayController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe2DetayController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:33:34.823Z"
             }
           ]
         }
