@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\sessions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\sessions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|c:\\users\\kavraz\\downloads\\ecommercedotnet-20240825t114918z-001\\ecommercedotnet\\ecommercedotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4DA874D7-401D-442D-B80D-F39048474290}|ecommercedotnet\\ecommercedotnet.csproj|solutionrelative:ecommercedotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -486,7 +510,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -498,7 +522,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Cart\\Cart.cshtml",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Cart\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Cart\\Cart.cshtml",
+              "RelativeToolTip": "ecommercedotnet\\Views\\Cart\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T21:47:26.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Sessions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Sessions\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Sessions\\SessionExtensions.cs",
+              "RelativeToolTip": "ecommercedotnet\\Sessions\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:45:35.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Models\\CartItem.cs",
+              "RelativeToolTip": "ecommercedotnet\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:44:11.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Models\\Product.cs",
+              "RelativeToolTip": "ecommercedotnet\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:42:51.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:42:34.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ecommercedotnet\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T21:40:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UrunlerBileklikController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerBileklikController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerBileklikController.cs",
@@ -506,12 +608,11 @@
               "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerBileklikController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T21:59:40.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:59:40.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "UrunlerCharmController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerCharmController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerCharmController.cs",
@@ -519,12 +620,11 @@
               "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerCharmController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T21:58:59.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:58:59.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "UrunlerBileklik.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\UrunlerBileklik.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\UrunlerBileklik.cshtml",
@@ -532,12 +632,11 @@
               "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\UrunlerBileklik.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T21:58:09.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:58:09.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Charm2DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm2DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm2DetayController.cs",
@@ -545,12 +644,11 @@
               "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm2DetayController.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAmwAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T21:51:41.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:51:41.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Charm1DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm1DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm1DetayController.cs",
@@ -558,25 +656,24 @@
               "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm1DetayController.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAIwEAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T21:50:59.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:50:59.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJwAAAAyAAAA",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAMwLgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-05T18:53:56.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "urunlerbileklik.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productScreen\\urunlerbileklik.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productScreen\\urunlerbileklik.html",
@@ -584,12 +681,11 @@
               "RelativeToolTip": "ecommercedotnet\\wwwroot\\productScreen\\urunlerbileklik.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4BAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-05T21:21:38.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:21:38.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "UrunlerKolyeController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKolyeController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKolyeController.cs",
@@ -597,12 +693,11 @@
               "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKolyeController.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAIwFQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T20:15:46.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T20:15:46.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "Charm3DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm3DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm3DetayController.cs",
@@ -610,12 +705,11 @@
               "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm3DetayController.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAowBAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T21:52:01.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:52:01.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Charm4DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm4DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm4DetayController.cs",
@@ -623,12 +717,11 @@
               "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm4DetayController.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAowA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T21:52:39.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:52:39.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "UrunlerKupeController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKupeController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKupeController.cs",
@@ -636,12 +729,11 @@
               "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerKupeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:52:16.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T18:52:16.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Charm5DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm5DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm5DetayController.cs",
@@ -649,12 +741,11 @@
               "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\CharmDetailController\\Charm5DetayController.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAowA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T21:53:03.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:53:03.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "UrunlerCharm.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\UrunlerCharm.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\UrunlerCharm.cshtml",
@@ -662,12 +753,11 @@
               "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\UrunlerCharm.cshtml",
               "ViewState": "AQIAACoAAAAAAAAAAAAMwDoAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T21:54:18.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:54:18.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Home\\Index.cshtml",
@@ -675,12 +765,11 @@
               "RelativeToolTip": "ecommercedotnet\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T18:58:44.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T18:58:44.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Charm2Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Charm2Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Charm2Detay.cshtml",
@@ -688,12 +777,11 @@
               "RelativeToolTip": "ecommercedotnet\\Views\\Shared\\Charm2Detay.cshtml",
               "ViewState": "AQIAAAcAAAAAAAAAAAAnwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T21:54:14.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:54:14.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "UrunlerCharm.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerCharm.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductScreen\\UrunlerCharm.cshtml",
@@ -701,12 +789,11 @@
               "RelativeToolTip": "ecommercedotnet\\Views\\ProductScreen\\UrunlerCharm.cshtml",
               "ViewState": "AQIAACIAAAAAAAAAAAAWwDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T21:48:35.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:48:35.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Charm2Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm2Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm2Detay.cshtml",
@@ -714,12 +801,11 @@
               "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm2Detay.cshtml",
               "ViewState": "AQIAAAgAAAAAAAAAAAAWwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T21:46:34.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:46:34.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "Charm5Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm5Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm5Detay.cshtml",
@@ -727,12 +813,11 @@
               "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm5Detay.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T21:48:10.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:48:10.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "Charm4Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm4Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm4Detay.cshtml",
@@ -740,12 +825,11 @@
               "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm4Detay.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T21:47:49.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:47:49.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "Charm1Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm1Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm1Detay.cshtml",
@@ -753,12 +837,11 @@
               "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm1Detay.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T21:46:06.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:46:06.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "UrunlerKupe.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerKupe.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductScreen\\UrunlerKupe.cshtml",
@@ -766,12 +849,11 @@
               "RelativeToolTip": "ecommercedotnet\\Views\\ProductScreen\\UrunlerKupe.cshtml",
               "ViewState": "AQIAAB8AAAAAAAAAAAAmwDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T18:48:56.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T18:48:56.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "Bileklik1DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik1DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik1DetayController.cs",
@@ -779,12 +861,11 @@
               "RelativeToolTip": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik1DetayController.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAIwFQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T21:17:08.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:17:08.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "Charm3Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm3Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm3Detay.cshtml",
@@ -792,12 +873,11 @@
               "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\CharmDetay\\Charm3Detay.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T21:47:00.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:47:00.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "UrunlerYuzuk.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerYuzuk.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductScreen\\UrunlerYuzuk.cshtml",
@@ -805,12 +885,11 @@
               "RelativeToolTip": "ecommercedotnet\\Views\\ProductScreen\\UrunlerYuzuk.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAmwD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T21:15:03.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:15:03.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "Bileklik5Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik5Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik5Detay.cshtml",
@@ -818,12 +897,11 @@
               "RelativeToolTip": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik5Detay.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T21:26:36.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T21:26:36.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "Bileklik3Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik3Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik3Detay.cshtml",
@@ -835,7 +913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "Bileklik2Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik2Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik2Detay.cshtml",
@@ -847,7 +925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "Bileklik1Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik1Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik1Detay.cshtml",
@@ -859,7 +937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "UrunlerBileklik.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerBileklik.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductScreen\\UrunlerBileklik.cshtml",
@@ -871,7 +949,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "Bileklik4Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik4Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\BileklikDetay\\Bileklik4Detay.cshtml",
@@ -883,7 +961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "urunlerbileklikdetay5.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay5.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\bileklikdetay\\urunlerbileklikdetay5.html",
@@ -895,7 +973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "Bileklik5DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik5DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik5DetayController.cs",
@@ -907,7 +985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "Bileklik4DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik4DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik4DetayController.cs",
@@ -919,7 +997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "Bileklik3DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik3DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik3DetayController.cs",
@@ -931,7 +1009,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "UrunlerKolye.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductScreen\\UrunlerKolye.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductScreen\\UrunlerKolye.cshtml",
@@ -943,7 +1021,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "urunleryuzuk.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productScreen\\urunleryuzuk.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productScreen\\urunleryuzuk.html",
@@ -955,7 +1033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "Bileklik2DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik2DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\BileklikDetayController\\Bileklik2DetayController.cs",
@@ -967,7 +1045,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "urunleryuzukdetay5.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay5.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay5.html",
@@ -979,7 +1057,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "Yuzuk5Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk5Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk5Detay.cshtml",
@@ -991,7 +1069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "Yuzuk4Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk4Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk4Detay.cshtml",
@@ -1003,7 +1081,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "Yuzuk3Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk3Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk3Detay.cshtml",
@@ -1015,7 +1093,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "Kolye1DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye1DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye1DetayController.cs",
@@ -1027,7 +1105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "urunleryuzukdetay3.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay3.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay3.html",
@@ -1039,7 +1117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "urunleryuzukdetay2.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay2.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay2.html",
@@ -1051,7 +1129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "Yuzuk2Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk2Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk2Detay.cshtml",
@@ -1063,7 +1141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "urunleryuzukdetay1.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay1.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\yuzukdetay\\urunleryuzukdetay1.html",
@@ -1075,7 +1153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "Yuzuk1Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk1Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\YuzukDetay\\Yuzuk1Detay.cshtml",
@@ -1087,7 +1165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 58,
               "Title": "UrunlerYuzukController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerYuzukController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductScreenControllers\\UrunlerYuzukController.cs",
@@ -1099,7 +1177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 53,
               "Title": "Yuzuk5DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk5DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk5DetayController.cs",
@@ -1111,7 +1189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 54,
               "Title": "Yuzuk4DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk4DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk4DetayController.cs",
@@ -1123,7 +1201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 55,
               "Title": "Yuzuk3DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk3DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk3DetayController.cs",
@@ -1135,7 +1213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 56,
               "Title": "Yuzuk2DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk2DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk2DetayController.cs",
@@ -1147,7 +1225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 57,
               "Title": "Yuzuk1DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk1DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\YuzukDetayController\\Yuzuk1DetayController.cs",
@@ -1159,7 +1237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 65,
               "Title": "Kolye8DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye8DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye8DetayController.cs",
@@ -1171,7 +1249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 61,
               "Title": "Kolye8Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye8Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye8Detay.cshtml",
@@ -1183,7 +1261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 63,
               "Title": "Kolye10DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye10DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye10DetayController.cs",
@@ -1195,7 +1273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 59,
               "Title": "Kupe1DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe1DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe1DetayController.cs",
@@ -1207,7 +1285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 69,
               "Title": "Kolye4DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye4DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye4DetayController.cs",
@@ -1219,7 +1297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 68,
               "Title": "Kolye5DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye5DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye5DetayController.cs",
@@ -1231,7 +1309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 60,
               "Title": "UrunlerKolye.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\UrunlerKolye.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\UrunlerKolye.cshtml",
@@ -1243,7 +1321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 62,
               "Title": "Kolye2DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye2DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye2DetayController.cs",
@@ -1255,7 +1333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 64,
               "Title": "Kolye9DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye9DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye9DetayController.cs",
@@ -1267,7 +1345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 66,
               "Title": "Kolye7DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye7DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye7DetayController.cs",
@@ -1279,7 +1357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 67,
               "Title": "Kolye6DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye6DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye6DetayController.cs",
@@ -1291,7 +1369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 70,
               "Title": "Kolye3DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye3DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KolyeDetayController\\Kolye3DetayController.cs",
@@ -1303,7 +1381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 71,
               "Title": "Kolye4Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye4Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye4Detay.cshtml",
@@ -1315,7 +1393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 72,
               "Title": "Kupe6Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe6Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kupe6Detay.cshtml",
@@ -1327,7 +1405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 73,
               "Title": "Kolye7Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye7Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye7Detay.cshtml",
@@ -1339,7 +1417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 74,
               "Title": "Kolye6Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye6Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye6Detay.cshtml",
@@ -1351,7 +1429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 75,
               "Title": "Kolye5Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye5Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye5Detay.cshtml",
@@ -1363,7 +1441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 76,
               "Title": "Kolye4Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye4Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye4Detay.cshtml",
@@ -1375,7 +1453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 77,
               "Title": "Kolye10Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye10Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye10Detay.cshtml",
@@ -1387,7 +1465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 78,
               "Title": "Kolye1Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kolye1Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kolye1Detay.cshtml",
@@ -1399,7 +1477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 81,
               "Title": "Kolye10Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye10Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye10Detay.cshtml",
@@ -1411,7 +1489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 83,
               "Title": "urunlerkolyedetay10.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay10.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay10.html",
@@ -1423,7 +1501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 84,
               "Title": "Kolye9Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye9Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye9Detay.cshtml",
@@ -1435,7 +1513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 82,
               "Title": "Kolye8Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye8Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye8Detay.cshtml",
@@ -1447,7 +1525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 79,
               "Title": "Kolye1Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye1Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye1Detay.cshtml",
@@ -1459,7 +1537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 80,
               "Title": "urunlerkolyedetay1.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay1.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay1.html",
@@ -1471,7 +1549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 85,
               "Title": "urunlerkolyedetay9.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay9.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay9.html",
@@ -1483,7 +1561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 86,
               "Title": "urunlerkolyedetay8.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay8.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay8.html",
@@ -1495,7 +1573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 87,
               "Title": "Kolye7Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye7Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye7Detay.cshtml",
@@ -1507,7 +1585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 88,
               "Title": "urunlerkolyedetay7.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay7.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay7.html",
@@ -1519,7 +1597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 90,
               "Title": "urunlerkolyedetay6.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay6.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay6.html",
@@ -1531,7 +1609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 89,
               "Title": "Kolye6Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye6Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye6Detay.cshtml",
@@ -1543,7 +1621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 91,
               "Title": "Kolye5Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye5Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye5Detay.cshtml",
@@ -1555,7 +1633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 92,
               "Title": "urunlerkolyedetay5.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay5.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay5.html",
@@ -1567,7 +1645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 93,
               "Title": "urunlerkolyedetay4.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay4.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay4.html",
@@ -1579,7 +1657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 95,
               "Title": "urunlerkolyedetay3.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay3.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay3.html",
@@ -1591,7 +1669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 94,
               "Title": "Kolye3Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye3Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye3Detay.cshtml",
@@ -1603,7 +1681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 97,
               "Title": "urunlerkolyedetay2.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay2.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kolyedetay\\urunlerkolyedetay2.html",
@@ -1615,7 +1693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 96,
               "Title": "Kolye2Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye2Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KolyeDetay\\Kolye2Detay.cshtml",
@@ -1627,7 +1705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 98,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\HomeController.cs",
@@ -1639,7 +1717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 104,
               "Title": "kupe3detay.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe3detay.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe3detay.html",
@@ -1651,7 +1729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 105,
               "Title": "Kupe7Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe7Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe7Detay.cshtml",
@@ -1663,7 +1741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 106,
               "Title": "Kupe7DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe7DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe7DetayController.cs",
@@ -1675,7 +1753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 107,
               "Title": "kupe2detay.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe2detay.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe2detay.html",
@@ -1687,7 +1765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 108,
               "Title": "Kupe6Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe6Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe6Detay.cshtml",
@@ -1699,7 +1777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 99,
               "Title": "UrunlerKupe.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\UrunlerKupe.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\UrunlerKupe.cshtml",
@@ -1711,7 +1789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 101,
               "Title": "Kupe8Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe8Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kupe8Detay.cshtml",
@@ -1723,7 +1801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 100,
               "Title": "Kupe1Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe1Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe1Detay.cshtml",
@@ -1735,7 +1813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 103,
               "Title": "Kupe8DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe8DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe8DetayController.cs",
@@ -1747,7 +1825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 102,
               "Title": "Kupe8Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe8Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe8Detay.cshtml",
@@ -1759,7 +1837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 109,
               "Title": "Kupe6DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe6DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe6DetayController.cs",
@@ -1771,7 +1849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 110,
               "Title": "kupe1detay.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe1detay.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kupe1detay.html",
@@ -1783,7 +1861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 111,
               "Title": "Kupe5Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe5Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kupe5Detay.cshtml",
@@ -1795,7 +1873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 112,
               "Title": "kolye5detay.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye5detay.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye5detay.html",
@@ -1807,7 +1885,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 113,
               "Title": "Kupe5DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe5DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe5DetayController.cs",
@@ -1819,7 +1897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 114,
               "Title": "Kupe4Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe4Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kupe4Detay.cshtml",
@@ -1831,7 +1909,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 115,
               "Title": "Kupe4DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe4DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe4DetayController.cs",
@@ -1843,7 +1921,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 116,
               "Title": "kolye4detay.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye4detay.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye4detay.html",
@@ -1855,7 +1933,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 117,
               "Title": "Kupe3Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe3Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe3Detay.cshtml",
@@ -1867,7 +1945,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 119,
               "Title": "kolye3detay.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye3detay.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye3detay.html",
@@ -1879,7 +1957,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 118,
               "Title": "Kupe3DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe3DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe3DetayController.cs",
@@ -1891,7 +1969,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 121,
               "Title": "Kupe2Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe2Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kupe2Detay.cshtml",
@@ -1903,7 +1981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 124,
               "Title": "kolye2detay.html",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye2detay.html",
               "RelativeDocumentMoniker": "ecommercedotnet\\wwwroot\\productDetailScreen\\kupedetay\\kolye2detay.html",
@@ -1915,7 +1993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 120,
               "Title": "Kupe2Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe2Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\ProductDetailScreen\\KupeDetay\\Kupe2Detay.cshtml",
@@ -1927,7 +2005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 122,
               "Title": "Kupe1Detay.cshtml",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Views\\Shared\\Kupe1Detay.cshtml",
               "RelativeDocumentMoniker": "ecommercedotnet\\Views\\Shared\\Kupe1Detay.cshtml",
@@ -1939,7 +2017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 123,
               "Title": "Kupe2DetayController.cs",
               "DocumentMoniker": "C:\\Users\\kavraz\\Downloads\\ecommercedotnet-20240825T114918Z-001\\ecommercedotnet\\ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe2DetayController.cs",
               "RelativeDocumentMoniker": "ecommercedotnet\\Controllers\\ProductDetailScreenControllers\\KupeDetayController\\Kupe2DetayController.cs",

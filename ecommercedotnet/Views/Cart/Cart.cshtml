@@ -1,0 +1,38 @@
+﻿@model List<ecommercedotnet.Models.CartItem>
+
+<h2>Sepet</h2>
+
+@if (Model == null || !Model.Any())
+{
+    <p>Sepetinizde ürün bulunmamaktadır.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Ürün Adı</th>
+                <th>Fiyat</th>
+                <th>Adet</th>
+                <th>Toplam</th>
+                <th>İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Product.Price.ToString("C")</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.Product.Price * item.Quantity).ToString("C")</td>
+                    <td>
+                        <a href="@Url.Action("RemoveFromCart", "Cart", new { productId = item.Product.Id })" class="btn btn-danger">Kaldır</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a href="@Url.Action("ClearCart", "Cart")" class="btn btn-warning">Sepeti Temizle</a>
+}

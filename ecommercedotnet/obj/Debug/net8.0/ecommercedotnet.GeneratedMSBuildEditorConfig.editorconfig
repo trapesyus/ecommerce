@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\kavraz\Downloads\ecommercedotnet-20240825T114918Z-001\ecommercedotnet\ecommercedotnet
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/Cart/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kavraz/Downloads/ecommercedotnet-20240825T114918Z-001/ecommercedotnet/ecommercedotnet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
